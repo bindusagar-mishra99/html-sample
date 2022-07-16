@@ -1,0 +1,28 @@
+div.content{
+    width: 150px;
+    height: 150px;
+    border: 2px solid #000;
+    float: left;
+    margin: 20px;
+}
+div#first{
+    background-color: #f00;
+}
+div#second{
+    background-color: aqua;
+}
+div#third{
+    background-color: #000;
+}
+div#fourth{
+    background-color: blue;
+}
+div#fifth{
+    background-color: chartreuse;
+}
+div#sixth{
+    background-color: crimson;
+}
+div#seventh{
+    background-color: blueviolet;
+}
